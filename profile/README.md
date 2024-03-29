@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### Streamwise: Problems faced: [Google Docs](https://docs.google.com/document/d/1PZIafxyxmPy_FLIUMjUDsvk727srmZttX02nQVjvb7w/view?usp=sharing)
+
 <!--
 
 **Here are some ideas to get you started:**
